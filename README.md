@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wan Siew Yik</h1>
-<h3 align="center">A passionate back-end developer. Strong interest on cybersecurity.</h3>
+<h3 align="center">A passionate back-end developer. Strong interest in cybersecurity.</h3>
 
 - 📫 How to reach me **siewyik85@hotmail.com**
 
