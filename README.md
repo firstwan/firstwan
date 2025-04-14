@@ -12,10 +12,10 @@
 ## 🕵️ About me
 🎮 I'm a CTF player. I learn and practice in **TryHackMe** and **HackTheBox**.<br/>
 🚧 I'm building my personal website.<br/>
-📖 I'm currently studying [prompt engineering on Gen AI](https://github.com/firstwan/generative-ai-for-beginners/blob/main/04-prompt-engineering-fundamentals/README.md?WT.mc_id=academic-105485-koreyst)<br/>
-🌟 I'm currently **open** to new job opportunities. Have a look at my [RESUME](docs/SoftwareEngineer_WanSiewYik(19-Feb).pdf).<br/>
+📖 I'm currently studying **[prompt engineering on Gen AI](https://github.com/firstwan/generative-ai-for-beginners)**.<br/>
+🌟 I'm currently **open** to new job opportunities. Have a look at my **[RESUME](docs/SoftwareEngineer_WanSiewYik(19-Feb).pdf)**.<br/>
 🤝🏻 Feel free to reach out to me for any freelance opportunities related to web development.<br/>
-📫 How to reach me **firstwan95@gmail.com**
+📫 How to reach me **firstwan95@gmail.com**.
 
 ## 🔗 Connect with me
 [![Connect](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/firstwan)
