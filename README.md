@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siew Yik</h1>
+<h1 align="center">Hi 👋, I'm Wan Siew Yik</h1>
 <h3 align="center">Software Engineer | .Net Developer | Back-end Developer | Solution Provider | CTF Player | Cybersecurity begineer | Certified CompTIA Security+</h3>
 <div align="center">
   <a href="https://linkedin.com/in/firstwan" target="blank"><img align="center" src="https://img.shields.io/badge/First_Wan-LinkedIn-blue" alt="firstwan" /></a>
