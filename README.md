@@ -13,7 +13,7 @@
 🎮 I'm a CTF player. I learn and practice in **TryHackMe** and **HackTheBox**.<br/>
 🌐 You can visit my personal website **[HERE](https://firstwan.github.io/)**, but it still under development.<br/>
 📖 I'm currently studying **[prompt engineering on Gen AI](https://github.com/firstwan/generative-ai-for-beginners)**.<br/>
-🌟 I'm currently **open** to new job opportunities. Have a look at my **[RESUME](https://github.com/firstwan/firstwan/blob/bf1d9ba6d293d639766e41e193d9afe79ee17091/docs/SoftwareEngineer_WanSiewYik.pdf)**.<br/>
+🌟 I'm currently **open** to new job opportunities. Have a look at my **[RESUME](https://porfolio-cnd.netlify.app/common/SoftwareEngineer_WanSiewYik.pdf)**.<br/>
 🤝🏻 Feel free to reach out to me for any freelance opportunities related to web development.<br/>
 📫 How to reach me **firstwan95@gmail.com**.
 
