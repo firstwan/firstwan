@@ -1,21 +1,26 @@
 <h1 align="center">Hi 👋, I'm Wan Siew Yik</h1>
-<h3 align="center">Software Engineer | .Net Developer | Back-end Developer | Solution Provider | CTF Player | Cybersecurity begineer | Certified CompTIA Security+</h3>
+<h3 align="center">Software Engineer | .Net Developer | Back-end Developer | Solution Provider | CTF Player | Cybersecurity begineer | CompTIA Security+</h3>
 <div align="center">
   <a href="https://linkedin.com/in/firstwan" target="blank"><img align="center" src="https://img.shields.io/badge/First_Wan-LinkedIn-blue" alt="firstwan" /></a>
   <a href="mailto:firstwan95@gmail.com"><img align="center" src="https://img.shields.io/badge/First%20Wan-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 </div>
 
-<em align="center">
-  Hi, I am a software engineer specializing in web development. Beginner in front-end but professional in back-end development. A Script Kiddies who are passionate about technology and breaking into the cybersecurity field.
-</em>
+## 🌐 [Personal Blog](https://firstwan.github.io/)
+
+## 🧱 SIEM Project
+- [Elastic EDR Implement](https://firstwan.github.io/posts/elastic-edr/)
+- [Azure Honeypot](https://firstwan.github.io/posts/azure-siem/)
+- [ELK Server Setup](https://firstwan.github.io/posts/elastic-server-from-scratch/)
+
+## 📜 Powershell and Bash script
+- [Vulnerability Scanning](https://firstwan.github.io/posts/vulner-scan/)
+- [Reconnaissance  Scanning](https://firstwan.github.io/posts/remote-scaning/)
 
 ## 🕵️ About me
 🎮 I'm a CTF player. I learn and practice in **TryHackMe** and **HackTheBox**.<br/>
-🌐 You can visit my personal website **[HERE](https://firstwan.github.io/)**, but it still under development.<br/>
 📖 I'm currently studying **[prompt engineering on Gen AI](https://github.com/firstwan/generative-ai-for-beginners)**.<br/>
 🌟 I'm currently **open** to new job opportunities. Have a look at my **[RESUME](https://porfolio-cnd.netlify.app/commons/SoftwareEngineer_WanSiewYik.pdf)**.<br/>
 🤝🏻 Feel free to reach out to me for any freelance opportunities related to web development.<br/>
-📫 How to reach me **firstwan95@gmail.com**.
 
 ## 🔗 Connect with me
 [![Connect](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/firstwan)
